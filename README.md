@@ -3,7 +3,7 @@
 ## Temario
 
 - [ ] [Introducción](documentos/introduccion.md)
-  - [ ] [Repaso de programación estructurada](https://github.com/mmasias/25-26-prg1/blob/main/temario/README.md)
+  - [ ] [Repaso de programación estructurada](https://github.com/mmasias/prg1)
   - [ ] [Evolución de los lenguajes de programación](documentos/evolucion.md)
   - [ ] [Objetivos](documentos/pooObjetivos.md)
 - Orientación a objetos
