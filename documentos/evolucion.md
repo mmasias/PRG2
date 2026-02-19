@@ -1,3 +1,9 @@
+<div align=right>
+
+<sub>[Introducción](introduccion.md) / [Bases de la programación](basesProgramacion.md) / [Evolución](evolucion.md) / [POO](poo.md)</sub>
+
+</div>
+
 # Evolución de los lenguajes de programación
 
 La historia de los lenguajes de programación es, en esencia, la historia de cómo los programadores han luchado contra la complejidad del software. A medida que los programas crecían en tamaño y ambición, las herramientas disponibles resultaban insuficientes, lo que impulsó la búsqueda de nuevos paradigmas.
