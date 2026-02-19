@@ -4,6 +4,7 @@
 
 - [ ] [Introducción](documentos/introduccion.md)
   - [ ] [Repaso de programación estructurada](https://github.com/mmasias/prg1)
+  - [ ] [Bases de la programación](documentos/basesProgramacion.md)
   - [ ] [Evolución de los lenguajes de programación](documentos/evolucion.md)
   - [ ] [Objetivos](documentos/pooObjetivos.md)
 - Orientación a objetos
