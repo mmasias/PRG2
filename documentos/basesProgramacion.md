@@ -6,8 +6,6 @@
 
 # Bases de la programación
 
-# Bases de la programación
-
 En la introducción se identificaron cuatro características inherentes a los sistemas complejos —patrones comunes, separación de asuntos, elementos primitivos relativos y estructura jerárquica— y se mapearon a cuatro conceptos de la ingeniería del software que permiten gestionarlas.
 
 A continuación se desarrollan cada uno de estos conceptos en profundidad.
