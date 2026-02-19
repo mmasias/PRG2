@@ -108,8 +108,8 @@ La separación formal entre interfaz pública y representación privada es el sa
 
 |||
 |-|:-:|
-|**ABSTRACCIÓN**|Polimorfismo|
-|**ENCAPSULACIÓN**|Herencia|
+|**ABSTRACCIÓN**|Herencia y Polimorfismo|
+|**ENCAPSULACIÓN**|Clases|
 |**MODULARIZACIÓN**|Clases|
 |**JERARQUIZACIÓN**|Jerarquías de clasificación|
 

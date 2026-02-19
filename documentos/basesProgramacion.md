@@ -6,7 +6,11 @@
 
 # Bases de la programación
 
-Cuatro conceptos que, juntos, permiten construir software capaz de gestionar la complejidad de forma sistemática.
+# Bases de la programación
+
+En la introducción se identificaron cuatro características inherentes a los sistemas complejos —patrones comunes, separación de asuntos, elementos primitivos relativos y estructura jerárquica— y se mapearon a cuatro conceptos de la ingeniería del software que permiten gestionarlas.
+
+A continuación se desarrollan cada uno de estos conceptos en profundidad.
 
 ## Abstracción
 
@@ -26,7 +30,7 @@ La encapsulación es proceso por el que se ocultan los detalles del soporte de l
 
 Principio de Ocultación de la información: todo aquello que no sea necesario dar a conocer, no se debe dar a conocer
 
-En ninguno de los casos no se trata de ocultar la información en sí misma sino de ocultar los detalles del soporte de dicha información.
+No se trata de ocultar la información en sí misma sino de ocultar los detalles del soporte de dicha información.
 
 ||||
 |-|-|-|
