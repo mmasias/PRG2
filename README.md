@@ -2,11 +2,11 @@
 
 ## Temario
 
-- [ ] [Introducción](documentos/introduccion.md)
-  - [ ] [Repaso de programación estructurada](https://github.com/mmasias/prg1)
-  - [ ] [Bases de la programación](documentos/basesProgramacion.md)
-  - [ ] [Evolución de los lenguajes de programación](documentos/evolucion.md)
-  - [ ] [Objetivos](documentos/pooObjetivos.md)
+- [x] [Introducción](documentos/introduccion.md)
+  - [x] [Repaso de programación estructurada](https://github.com/mmasias/prg1)
+  - [x] [Bases de la programación](documentos/basesProgramacion.md)
+  - [x] [Evolución de los lenguajes de programación](documentos/evolucion.md)
+  - [x] [La programación orientada a objetos](documentos/poo.md)
 - Orientación a objetos
   - Programación basada en objetos
     - [ ] [Clases y objetos](documentos/clasesObjetos.md)
