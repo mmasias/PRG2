@@ -98,7 +98,7 @@ Ej. A partir de la Clase Intervalo
 
 - IntervaloCerradoCerrado [x,x], IntervaloAbiertoCerrado (x,x],…
 
-***Polimorfismo***: enlace dinámico de expresiones a clases y/o de mensajes a métodos.
+***Polimorfismo***: capacidad de un mismo mensaje de ser respondido de forma diferente según el objeto que lo recibe.
 
 Ej. Objetos intercambiables de las clases Intervalo, IntervaloCerradoCerrado, …
 

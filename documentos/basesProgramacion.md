@@ -6,10 +6,7 @@
 
 # Bases de la programación
 
-- Abstracción
-- Encapsulación
-- Modularización
-- Jerarquización
+Cuatro conceptos que, juntos, permiten construir software capaz de gestionar la complejidad de forma sistemática.
 
 ## Abstracción
 
@@ -35,7 +32,7 @@ En ninguno de los casos no se trata de ocultar la información en sí misma sino
 |-|-|-|
 La encapsulación se logra con mayor frecuencia a través de ocultación de información, que es el proceso de **ocultar todos los secretos de un objeto que no contribuyen a sus características esenciales**|La encapsulación proporciona barreras explícitas entre las diferentes abstracciones y por lo tanto conduce a una clara **separación de asuntos**.|El beneficio inmediato será la posibilidad de **cambiar los soportes de las características de una abstracción sin afectar a todos los elementos que dependan de esas características** porque ni los conocen, ni los mencionan
 
-## Implicaciones
+### Implicaciones
 
 Una vez realizada cierta abstracción hay que “trasladarlas” al lenguaje de programación.
 
@@ -73,8 +70,6 @@ Para modularizar hay que minimizar las dependencias entre módulos (acoplamiento
 Jerarquía es una clasificación u ordenamiento de las abstracciones — Booch
 
 La jerarquización es el proceso de estructuración por el que se produce una organización de un conjunto de elementos en grados o niveles de responsabilidad, de clasificación o de composición, …​ entre otros
-
-**Grafo dirigido acíclico**
 
 ||||
 |-|-|-|
