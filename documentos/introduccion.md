@@ -100,3 +100,5 @@ Para lidiar con estas características, la ingeniería del software ha desarroll
 |Separación de asuntos|**Encapsulación**|Ocultar los detalles de la implementación|
 |Elementos primitivos relativos|**Modularización**|Dividir en piezas independientes y cohesivas|
 |Estructura jerárquica|**Jerarquización**|Organizar las abstracciones en niveles|
+
+> [Bases de la programación](basesProgramacion.md)
