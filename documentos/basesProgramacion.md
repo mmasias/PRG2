@@ -86,3 +86,5 @@ Aún así, esto no es suficiente. Un conjunto de abstracciones a menudo forma un
 |-|-|
 La identificación de las jerarquías dentro de un sistema de software complejo a menudo no es fácil.|Si no revelamos la estructura de clases de un sistema, tendríamos que multiplicar nuestro conocimiento sobre las propiedades de cada parte individual.
 Una vez que se exponen esas jerarquías, la estructura de un sistema complejo se vuelve muy simple y obtenemos la comprensión de la misma.|Con la inclusión de la estructura de clases, captamos estas propiedades comunes en un solo lugar.
+
+> [Evolución](evolucion.md)
