@@ -28,9 +28,12 @@ Es aquel cuya complejidad excede la capacidad intelectual humana — [Grady Booc
 |Película de amor|personajes|fechas y lugares de los personajes|la sociedad, las familias, una ex-pareja, …​|argumento que relaciona los personajes de la historia|transmitir emociones|reproducción de la película|
 |Sistema de manufactura|Maquinaria, operarios, materia prima, procesos de producción|En la planta de producción donde se fabrican los productos|Tecnología disponible, normativas de seguridad y salud, demanda del producto, …​|Secuencia de operaciones y procesos para transformar materias primas en productos finales|Producir bienes de calidad de manera eficiente y segura|Conversión de materias primas en productos finales mediante procesos como mecanizado, ensamblaje, …​|
 
-Gestionar fenómenos de esta complejidad va más allá de las capacidades humanas. De ahí la necesidad del software —y la exigencia de que sea efectivo: eficaz y eficiente.
-
 ## ¿Para qué?
+
+Gestionar fenómenos de esta complejidad va más allá de las capacidades humanas.
+
+De ahí la necesidad del software —y la exigencia de que sea efectivo: eficaz y eficiente.
+
 
 ### Efectividad
 
