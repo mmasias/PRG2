@@ -116,3 +116,5 @@ La separación formal entre interfaz pública y representación privada es el sa
 </div>
 
 **OO = TAD + Herencia & Polimorfismo**
+
+> [POO](poo.md)
