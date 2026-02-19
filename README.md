@@ -2,8 +2,8 @@
 
 ## Temario
 
+- [x] [Repaso de programación estructurada](https://github.com/mmasias/prg1)
 - [x] [Introducción](documentos/introduccion.md)
-  - [x] [Repaso de programación estructurada](https://github.com/mmasias/prg1)
   - [x] [Bases de la programación](documentos/basesProgramacion.md)
   - [x] [Evolución de los lenguajes de programación](documentos/evolucion.md)
   - [x] [La programación orientada a objetos](documentos/poo.md)
