@@ -1,6 +1,6 @@
 <div align=right>
 
-<sub>[Introducción](introduccion.md) / [Bases de la programación](basesProgramacion.md) / [Evolución](evolucion.md) / [POO](poo.md)</sub>
+<sub>[Introducción](README.md) / [Bases de la programación](basesProgramacion.md) / [Evolución](evolucion.md) / **POO**</sub>
 
 </div>
 

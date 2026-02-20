@@ -1,12 +1,12 @@
 <div align=right>
 
-<sub>[Introducción](introduccion.md) / [Bases de la programación](basesProgramacion.md) / [Evolución](evolucion.md) / [POO](poo.md)</sub>
+<sub>[Introducción](README.md) / [Bases de la programación](basesProgramacion.md) / **Evolución** / [POO](poo.md)</sub>
 
 </div>
 
 # Evolución de los lenguajes de programación
 
-La historia de los lenguajes de programación es, en esencia, la historia de cómo los programadores han luchado contra la complejidad del software. A medida que los programas crecían en tamaño y ambición, las herramientas disponibles resultaban insuficientes, lo que impulsó la búsqueda de nuevos paradigmas.
+La historia de los lenguajes de programación es, en esencia, la historia de **cómo los programadores han luchado contra la complejidad del software**. A medida que los programas crecían en tamaño y ambición, las herramientas disponibles resultaban insuficientes, lo que impulsó la búsqueda de nuevos paradigmas.
 
 Esta evolución puede analizarse a través de cuatro conceptos fundamentales: la abstracción, que permite operar con ideas en lugar de detalles; la encapsulación, que protege la información ocultando su representación interna; la modularización, que divide el sistema en unidades manejables e independientes; y la jerarquización, que organiza esas unidades en estructuras que reflejan relaciones de dependencia o clasificación.
 
