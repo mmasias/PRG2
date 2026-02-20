@@ -105,3 +105,5 @@ Ej. Objetos intercambiables de las clases Intervalo, IntervaloCerradoCerrado, �
 La clase hija hereda los atributos y métodos de la clase padre y se especializa añadiendo y/o redefiniendo atributos y métodos.
 
 En el polimorfismo, el objeto activo sólo necesita conocer qué mensajes puede aceptar el objeto pasivo, no qué clase de objeto cree que es y, por tanto, qué método ejecuta en cada instante.
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>

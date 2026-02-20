@@ -85,3 +85,5 @@ La identificación de las jerarquías dentro de un sistema de software complejo 
 Una vez que se exponen esas jerarquías, la estructura de un sistema complejo se vuelve muy simple y obtenemos la comprensión de la misma.|Con la inclusión de la estructura de clases, captamos estas propiedades comunes en un solo lugar.
 
 > [Evolución](evolucion.md)
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>

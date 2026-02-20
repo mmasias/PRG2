@@ -102,3 +102,5 @@ Para lidiar con estas características, la ingeniería del software ha desarroll
 |Estructura jerárquica|**Jerarquización**|Organizar las abstracciones en niveles|
 
 > [Bases de la programación](basesProgramacion.md)
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
