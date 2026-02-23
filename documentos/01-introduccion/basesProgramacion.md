@@ -1,6 +1,6 @@
 <div align=right>
 
-<sup>**Introducción** / [Vistas](/documentos/02-vistas/clasesObjetos.md) / Colaboración / POO</sup><br>
+<sup>**INTRODUCCIÓN** / [VISTAS](/documentos/02-vistas/clasesObjetos.md) / COLABORACIÓN / POO</sup><br>
 <sub>[Introducción](README.md) / **Bases de la programación** / [Evolución](evolucion.md) / [POO](poo.md)</sub>
 
 </div>
