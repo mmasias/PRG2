@@ -23,7 +23,7 @@ Creación de vectores de objetos|Referencia a un vector de referencias a objetos
 - En caso de no existir constructor, la lista debe estar vacía.
 
 <div align=center>
-    <img src="../images/SintaxisF.jpg" width=40%>
+    <img src="../../images/SintaxisF.jpg" width=40%>
 </div>
 
 ```java
@@ -49,7 +49,7 @@ Variable puntero que alberga la dirección de un objeto de una clase.
 ```
 
 <div align=center>
-    <img src="../images/referenciaObjeto.png" width=15%>
+    <img src="../../images/referenciaObjeto.png" width=15%>
 </div>
 
 ### Operadores
@@ -97,7 +97,7 @@ Donde el método (sin contemplar constructores ni destructores) debe estar prese
 - La expresión debe ser de tipo entero y determina la longitud de referencias del vector inicializadas a **null**
 
 <div align=center>
-    <img src="../images/SintaxisG.jpg" width=30%>
+    <img src="../../images/SintaxisG.jpg" width=30%>
 </div>
 
 ```java

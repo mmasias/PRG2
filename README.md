@@ -9,10 +9,10 @@
   - [x] [La programación orientada a objetos](documentos/01-introduccion/poo.md)
 - Orientación a objetos
   - Programación basada en objetos
-    - [x] [Clases y objetos](documentos/clasesObjetos.md)
-      - [x] [Introducción](documentos/introVistas.md)
-      - [x] [Vista pública de las clases](documentos/vistaPublicaClases.md)
-      - [x] [Vista pública de los objetos](documentos/vistaPublicaObjetos.md)
+    - [x] [Clases y objetos](documentos/02-vistas/clasesObjetos.md)
+      - [x] [Introducción](documentos/02-vistas/introVistas.md)
+      - [x] [Vista pública de las clases](documentos/02-vistas/vistaPublicaClases.md)
+      - [x] [Vista pública de los objetos](documentos/02-vistas/vistaPublicaObjetos.md)
       - [ ] [Vista privada de las clases](documentos/vistaPrivadaClases.md)
       - [ ] [Vista privada de los objetos](documentos/vistaPrivadaObjetos.md)
       - [ ] Miembros de clase
