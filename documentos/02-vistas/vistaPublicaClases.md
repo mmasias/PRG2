@@ -1,3 +1,9 @@
+<div align=right>
+
+<sub>[Clases y objetos](clasesObjetos.md) / [Vistas](introVistas.md) / **Vista pública de clases** / [Vista pública de objetos](vistaPublicaObjetos.md) / Vista privada de clases / Vista privada de objetos</sub>
+
+</div>
+
 # Vista pública de las Clases
 
 ## Sintaxis

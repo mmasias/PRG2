@@ -1,3 +1,9 @@
+<div align=right>
+
+<sub>[Clases y objetos](clasesObjetos.md) / **Vistas** / [Vista pública de clases](vistaPublicaClases.md) / [Vista pública de objetos](vistaPublicaObjetos.md) / Vista privada de clases / Vista privada de objetos</sub>
+
+</div>
+
 # Vistas
 
 Determinan el ámbito donde se puede referenciar la declaración de un miembro de la clase: atributo o método.
