@@ -126,13 +126,13 @@ Ej. Objetos intercambiables de las clases Intervalo, IntervaloCerradoCerrado, ..
 
 |PROGRAMACIÓN ESTRUCTURADA|BASES DE LA PROGRAMACIÓN|POO|
 |-|:-:|-|
-|Registro + Funciones|Abstracción, Encapsulación y Modularidad|Clase|
-|Variable de tipo registro|Abstracción, Encapsulación|Objeto|
-|Función|Modularidad|Método|
-Llamada a función|Abstracción|Mensaje
-Campo de un registro|Encapsulación y Modularidad|Atributo
-Estado de una variable Registro|Encapsulación|Estado
-Registros de campos Variables|Abstracción y Modularidad|Herencia
-Punteros/Referencias a funciones|Abstracción y Encapsulación|Polimorfismo
+|**Registro + Funciones**|Abstracción, Encapsulación y Modularidad|Clase|
+|**Variable de tipo registro**|Abstracción, Encapsulación|Objeto|
+|**Función**|Modularidad|Método|
+**Llamada a función**|Abstracción|Mensaje
+**Campo de un registro**|Encapsulación y Modularidad|Atributo
+**Estado de una variable Registro**|Encapsulación|Estado
+**Registros de campos Variables**|Abstracción y Modularidad|Herencia
+**Punteros/Referencias a funciones**|Abstracción y Encapsulación|Polimorfismo
 
 </div>
