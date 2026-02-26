@@ -86,7 +86,7 @@ Donde el método (sin contemplar constructores ni destructores) debe estar prese
 ```java
     intervalo.longitud()
     new Intervalo(-100, 100).longitud()
-    edades.partido(5)
+    edades.trozos(5)
     años.incluye(88)
     edades.interseccion(años)
 ```
@@ -145,10 +145,15 @@ Es una variable puntero que alberga la dirección de un vector de referencias a 
 
 ```java
     Intervalo[] intervalos;
-    Intervalo[] intervalos = new Intervalo[10];
+    intervalos = new Intervalo[10];
+
     intervalos[0] = new Intervalo ();
+
     intervalos[1] = intervalos[0].desplazado(1);
+
     intervalos[intervalos.length-1] = new Intervalo(2,2);
+
     Intervalo intervalo = intervalos[1];
+    
     intervalos = null;
 ```

@@ -69,3 +69,4 @@ Son métodos que reúnen las tareas de liberación de recursos y se lanzarían a
   - **Garbage collector** que libera automáticamente la memoria dinámica no referenciada
   - **try-with-resources** para gestionar recursos que deben cerrarse (ficheros, conexiones, etc.)
   
+> [Clases de soporte](soporte/README.md)
