@@ -17,9 +17,11 @@ class Intervalo {
     public boolean igual(Intervalo intervalo)
     public Intervalo interseccion(Intervalo intervalo)
     public boolean intersecta(Intervalo intervalo)   
+    
     public void mostrar()
     public void editar()
-    public Intervalo[] cortar(int trozos)
+
+    public Intervalo[] trozos(int numeroTrozos)
     public Intervalo union(Intervalo intervalo)
     public double puntoMedio();
 
