@@ -16,6 +16,8 @@ Determinan el ámbito donde se puede referenciar la declaración de un miembro d
 
 ||Clases|Objetos|
 |-|-|-|
+||<sub>Descripción de los datos y de las operaciones que describen el comportamiento de un cierto conjunto de elementos homogéneos.</sub>|<sub>Ejemplar concreto (instancia) de una clase, que responde al comportamiento definido por las operaciones de la clase a la que pertenece, adecuándose al estado de sus datos particulares.</sub>
+|||
 Vista pública|***[INTERFAZ](vistaPublicaClases.md)***:<br>Nombre de la Clase<br>Cabecera de los Métodos|Creación de Objetos<br>Paso de Mensajes<br>Destrucción de Objetos
 Vista privada|***IMPLEMENTACIÓN***:<br>Definición de Atributos<br>Desencadenamiento de Objetos|Definición de Métodos<br>Desencadenamiento de Mensajes
 
