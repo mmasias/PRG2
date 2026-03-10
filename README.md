@@ -13,7 +13,7 @@
       - [x] [Introducción](documentos/02-vistas/introVistas.md)
       - [x] [Vista pública de las clases](documentos/02-vistas/vistaPublicaClases.md)
       - [x] [Vista pública de los objetos](documentos/02-vistas/vistaPublicaObjetos.md)
-      - [ ] [Vista privada de las clases](documentos/vistaPrivadaClases.md)
+      - [x] [Vista privada de las clases](documentos/02-vistas/vistaPrivadaClases.md)
       - [ ] [Vista privada de los objetos](documentos/vistaPrivadaObjetos.md)
       - [ ] Miembros de clase
   - [ ] [Colaboración entre objetos: HOOD (*a.k.a. FotB*)](https://github.com/mmasias/24-25-PRG2/discussions/312)
