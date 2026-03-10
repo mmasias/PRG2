@@ -16,7 +16,7 @@ En cualquer punto de la implementación de la clase pero lo lógico es **al prin
         private <declaration>
         private <declaration>
         ...
-    }
+}
 ```
 
 ```java
@@ -25,14 +25,14 @@ class Intervalo {
     private double inicio;
     private double fin;       
 
-    }
+}
 ```
 
 ## Definición de constructores
 
 ### Inicialización de los atributos de la clase
 
-Reservado para las tareas de inicialización de los atributos del objeto, evitando la creación de objetos incosistentes
+Reservado para las tareas de inicialización de los atributos del objeto, evitando la creación de objetos inconsistentes
 
 A falta de inicialización explícita, **no recomendado**, se inicializan a valores por defecto, dependiendo de su tipo (0 para tipos numéricos, *false* para el tipo *boolean*, *caracter nulo* para tipo *char* y *null* para referencias);
 
@@ -52,8 +52,7 @@ class Intervalo {
     }
 
             ...
-    }
-
+}
 ```
 
 ## Definición de métodos
@@ -178,7 +177,7 @@ Sirve para la reutilización de métodos en la codificación de otros métodos
 
 Sirve para la reutilización de métodos en la codificación de otros métodos
 
-Dado que puede ser conveniente disponer de métodos, que no han sido solicitados, para implementar otros métodos, cabe la posibilidad de definir métodos de ámbito privado que sólo se pueden usar en la implementación de la clase
+Dado que puede ser conveniente disponer de métodos que no han sido solicitados para implementar otros métodos, cabe la posibilidad de definir métodos de ámbito privado que **sólo se pueden usar en la implementación de la clase**
 
 ```java
 
