@@ -14,7 +14,7 @@
       - [x] [Vista pública de las clases](documentos/02-vistas/vistaPublicaClases.md)
       - [x] [Vista pública de los objetos](documentos/02-vistas/vistaPublicaObjetos.md)
       - [x] [Vista privada de las clases](documentos/02-vistas/vistaPrivadaClases.md)
-      - [ ] [Vista privada de los objetos](documentos/vistaPrivadaObjetos.md)
+      - [x] [Vista privada de los objetos](documentos/02-vistas/vistaPrivadaObjetos.md)
       - [ ] Miembros de clase
   - [ ] [Colaboración entre objetos: HOOD (*a.k.a. FotB*)](https://github.com/mmasias/24-25-PRG2/discussions/312)
     - [ ] Desarrollo de aplicaciones usando HOOD:

@@ -1,0 +1,29 @@
+@startuml
+
+hide footbox
+
+participant "objetoExterno" as ext
+participant "objetoReceptor" as rec
+
+ext -> rec : mensaje()
+activate rec
+
+rec -> rec : acceso a atributos
+rec -> rec : mensajes a this
+rec -> rec : mensajes a atributos
+rec -> rec : mensajes a objetos locales
+
+ext <-- rec : retorno
+deactivate rec
+
+note over rec
+  Todo lo que ocurre aquí
+  es **invisible** para el emisor
+end note
+
+note over ext
+  Solo sabe que envió un mensaje
+  y obtuvo una respuesta
+end note
+
+@enduml

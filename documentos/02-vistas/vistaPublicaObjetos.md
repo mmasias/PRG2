@@ -1,7 +1,7 @@
 <div align=right>
 
 <sup>[INTRODUCCIÓN](/documentos/01-introduccion/README.md) / **VISTAS** / COLABORACIÓN / POO</sup><br>
-<sub>[Clases y objetos](clasesObjetos.md) / [Vistas](introVistas.md) / [Vista pública de clases](vistaPublicaClases.md) / **Vista pública de objetos** / Vista privada de clases / Vista privada de objetos</sub>
+<sub>[Clases y objetos](clasesObjetos.md) / [Vistas](introVistas.md) / [Vista pública de clases](vistaPublicaClases.md) / **Vista pública de objetos** / [Vista privada de clases](vistaPrivadaClases.md) / [Vista privada de objetos](vistaPrivadaObjetos.md)</sub>
 
 </div>
 
