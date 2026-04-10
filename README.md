@@ -16,11 +16,11 @@
       - [x] [Vista privada de las clases](documentos/02-vistas/vistaPrivadaClases.md)
       - [x] [Vista privada de los objetos](documentos/02-vistas/vistaPrivadaObjetos.md)
       - [ ] Miembros de clase
-  - [ ] [Colaboración entre objetos: HOOD (*a.k.a. FotB*)](https://github.com/mmasias/24-25-PRG2/discussions/312)
+  - [ ] [Una aproximación intuitiva a la colaboración entre objetos: HOOD (*a.k.a. FotB*)](documentos/03-colaboracion/README.md)
     - [ ] Desarrollo de aplicaciones usando HOOD:
-      - [ ] [Tic Tac Toe](https://github.com/mmasias/TicTacToe)
-      - [ ] [Klondike](https://github.com/mmasias/24-25-pyKlondike)
-      - [ ] [Blackjack (*a.k.a. 21*)](https://github.com/mmasias/24-25-pyKlondike/tree/XXI)
+      - [ ] Tic Tac Toe
+      - [ ] Klondike
+      - [ ] Blackjack (*a.k.a. 21*)
   - Programación orientada a objetos
     - [ ] [Relación de Herencia](documentos/herencia.md)
       - [ ] [Herencia por extensión](documentos/herencia.md#herencia-por-extensi%C3%B3n)
