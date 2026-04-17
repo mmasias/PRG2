@@ -18,7 +18,8 @@
       - [ ] Miembros de clase
   - [ ] [Una aproximación intuitiva a la colaboración entre objetos: HOOD (*a.k.a. FotB*)](documentos/03-colaboracion/README.md)
     - [ ] Desarrollo de aplicaciones usando HOOD:
-      - [ ] Tic Tac Toe
+      - [X] [Tic Tac Toe](https://github.com/puntoReflex/TresEnRaya)
+      - [ ] [CCCF](https://github.com/puntoReflex/pyCCCF/tree/PRG2/src/vPRG2) ***En construcción***
       - [ ] Klondike
       - [ ] Blackjack (*a.k.a. 21*)
   - Programación orientada a objetos
