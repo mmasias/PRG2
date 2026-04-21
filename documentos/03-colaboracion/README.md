@@ -128,7 +128,7 @@ En la visión estática, se construye -se va construyendo- la jerarquía de clas
 
 ```
 Aplicacion
- ├─TresEnRaya
+    ├─TresEnRaya
     ├── - tablero: Tablero
     ├── - jugadores: Jugador[]
     └── - turno: Turno
