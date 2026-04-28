@@ -20,7 +20,7 @@
     - [ ] Desarrollo de aplicaciones usando HOOD:
       - [X] [Tic Tac Toe](https://github.com/puntoReflex/TresEnRaya/tree/main/src)
       - [X] [CCCF](https://github.com/puntoReflex/pyCCCF/tree/PRG2/src/vPRG2)
-      - [ ] Klondike
+      - [ ] [Klondike](https://github.com/mmasias/25-26-Klondike)
       - [ ] Blackjack (*a.k.a. 21*)
   - Programación orientada a objetos
     - [ ] [Relación de Herencia](documentos/herencia.md)
