@@ -1,0 +1,10 @@
+@startuml
+A <|-d- B
+A <|-d- C
+
+C <|-d- D
+C <|-d- E
+C <|-d- F
+
+F <|-d- G
+@enduml

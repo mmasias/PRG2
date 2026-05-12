@@ -1,0 +1,13 @@
+@startuml
+class Base as "Base\nSuper - Padre" {
+- attributos
++ metodos()
+}
+
+class Derived as "Derivada\nSub - Hija" {
+- attributos
++ metodos()
+}
+
+Base <|-- Derived
+@enduml
